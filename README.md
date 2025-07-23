@@ -17,7 +17,7 @@ Pattern-Printer/
 ## 📌 Programs Included
 
 ### ➤ C++:
-- Convert any text input into a visual banner made of symbols (e.g., `#`, `*`, etc.)
+- `String_pattern_printing.cpp`: Convert any text input into a visual banner made of symbols (e.g., `#`, `*`, etc.)
 - Great for practicing character arrays, loops, and pattern formatting
 
 ### ➤ Java:
